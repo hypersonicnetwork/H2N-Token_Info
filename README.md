@@ -1,4 +1,4 @@
-# H2N_TOKEN_INFORMATION
+# H2N_TOKEN
 Hypersonic Network is an experimental ERC20 Token deployed on ETH Blockchain. H2N is the latest collaborative decentralized ETH Blockchain based platform.
 
 Hypersonic Network (H2N) token contract
