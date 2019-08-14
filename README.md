@@ -10,3 +10,4 @@ Twitter  https://twitter.com/HypersonicH2N
 Reddit   https://www.reddit.com/user/hypersonic_network
 Github   https://github.com/hypersonicnetwork
 Facebook https://web.facebook.com/HypersonicNetwork
+Medium   https://medium.com/@hypersonic.h2n.info
