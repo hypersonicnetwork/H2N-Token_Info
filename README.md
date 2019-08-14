@@ -11,3 +11,4 @@ Reddit   https://www.reddit.com/user/hypersonic_network
 Github   https://github.com/hypersonicnetwork
 Facebook https://web.facebook.com/HypersonicNetwork
 Medium   https://medium.com/@hypersonic.h2n.info
+Bitcointalk https://bitcointalk.org/index.php?action=profile;u=2661698;sa=showPosts
